@@ -2,3 +2,4 @@
 echo "Hi MNR"
 date
 cal
+uptime
