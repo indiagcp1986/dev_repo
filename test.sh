@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Hi 123"
+echo "Hi MNR"
 date
 cal
